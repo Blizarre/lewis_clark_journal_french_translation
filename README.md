@@ -4,6 +4,10 @@
 
 *Ceci est une traduction française du livre "The Journals of Lewis and Clark, 1804-1806" qui contient les récits de voyages de William Clark et Meriwether Lewis lors de leur expédition à travers l'Amérique, après que la Louisiane soit vendue aux États-Unis. Je n'ai pas pu trouver de traduction de ce texte en français, et j'ai donc décidé d'utiliser les outils d'OPENAI pour réaliser une traduction automatique. Bien que le résultat soit de très bonne qualité, je ne peux faire aucune promesse quant à la fidélité de la traduction.*
 
+- [EPUB](https://github.com/Blizarre/lewis_clark_journal_french_translation/blob/master/lewis_and_clark_journal.epub)
+- [PDF](https://github.com/Blizarre/lewis_clark_journal_french_translation/blob/master/lewis_and_clark_journal.pdf)
+- [Markdown](https://github.com/Blizarre/lewis_clark_journal_french_translation/blob/master/lewis_and_clark_journal.md)
+
 ## Introduction
 
 I was talking to my father about the [Lewis and Clark expedition](https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition) of 1804.
