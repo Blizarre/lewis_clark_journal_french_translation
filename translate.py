@@ -31,14 +31,12 @@ def load_journal(file_content: IO) -> List[Entry]:
     It is a list of entries, each with a title that contains the date and the author.
     I only care about the titles and the content for each entries."""
     lines = [l.strip() for l in file_content.readlines()]
-
     journal = []
 
-    entry_title = lines.pop()
+    entry_title = ""
     entry_content = []
 
     entry_title_regex = r"^\[.*\]$"  # match "[Something]"
-
     for line in lines:
         if re.match(entry_title_regex, line):
             if entry_content:
