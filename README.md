@@ -72,4 +72,4 @@ pandoc -f markdown -t epub -o lewis_and_clark_journal.epub --metadata title="Jou
 
 
 
-Github repository: https://github.com/blizarre/translate_lewis_clark_french_gpt4
+Github repository: https://github.com/Blizarre/lewis_clark_journal_french_translation
