@@ -6,6 +6,9 @@ Pour tout commentaire ou questions, vous pouvez me contacter à l'adresse [tradu
 
 [https://github.com/Blizarre/lewis_clark_journal_french_translation](https://github.com/Blizarre/lewis_clark_journal_french_translation)
 
+`Journal de l'exploration de la Louisiane par Lewis et Clack` by `Simon Marache-Francisco` is marked with CC0 1.0. To view a copy of this license, visit http://creativecommons.org/publicdomain/zero/1.0
+
+
 # Note du transcripteur
 
 ## Transcriber's Note

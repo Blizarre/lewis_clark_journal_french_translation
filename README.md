@@ -23,7 +23,7 @@ A couple of manual tests showed that the result was very good. We were really su
 
 I decided to build a simple script (Python / Async / openai lib) to translate every single entries (~ 1600) and generate a file in markdown. [pandoc](https://pandoc.org) was then used to convert it into epub and pdf. It is really more of an afternoon hack than a proper "project".
 
-The model used is GPT4-Turbo (`gpt-4-1106-preview`).
+The model used is GPT4-Turbo (`gpt-4-1106-preview`) and the output is released in the public domain ([CC0 1.0](http://creativecommons.org/publicdomain/zero/1.0))
 
 ## Original and translation quality
 
