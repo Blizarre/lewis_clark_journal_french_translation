@@ -2,7 +2,11 @@
 
 ## \[French\] Presentation
 
-*Ceci est une traduction française du livre "The Journals of Lewis and Clark, 1804-1806" qui contient les récits de voyages de William Clark et Meriwether Lewis lors de leur expédition à travers l'Amérique, après que la Louisiane soit vendue aux États-Unis. Je n'ai pas pu trouver de traduction de ce texte en français, et j'ai donc décidé d'utiliser les outils d'OPENAI pour réaliser une traduction automatique. Bien que le résultat soit de très bonne qualité, je ne peux faire aucune promesse quant à la fidélité de la traduction.*
+*Ceci est une traduction française du livre "The Journals of Lewis and Clark, 1804-1806" qui contient les récits de voyages de William Clark et Meriwether Lewis lors de leur expédition à travers l'Amérique. Je n'ai pas pu trouver de traduction de ce texte en français et j'ai donc décidé d'utiliser GPT-4 Turbo d'OpenAI pour réaliser une traduction automatique. Bien que le résultat soit de très bonne qualité, je ne peux faire aucune promesse quant à la fidélité de la traduction.*
+
+Le document original provient du projet Gutenberg : [https://www.gutenberg.org/ebooks/8419](https://www.gutenberg.org/ebooks/8419)
+
+Pour tout commentaire ou questions, vous pouvez me contacter à l'adresse [traduction@simon.marache.net](mailto:traduction@simon.marache.net)*
 
 - [EPUB](https://github.com/Blizarre/lewis_clark_journal_french_translation/raw/master/lewis_and_clark_journal.epub)
 - [PDF](https://github.com/Blizarre/lewis_clark_journal_french_translation/raw/master/lewis_and_clark_journal.pdf)
@@ -17,7 +21,7 @@ I found the original document (in the public domain) on the [gutenberg project's
 Given the simple nature of the medium (cleanly separated entries with a title), we wondered if we could use ChatGPT to perform the translation.
 A couple of manual tests showed that the result was very good. We were really surprised by the quality of the translation.
 
-I decided to build a simple script (Python / Async / openai lib) to translate every single entries (~ 1600) and generate a file in markdown. [pandoc](https://pandoc.org) was then used to convert it into epub and pdf.
+I decided to build a simple script (Python / Async / openai lib) to translate every single entries (~ 1600) and generate a file in markdown. [pandoc](https://pandoc.org) was then used to convert it into epub and pdf. It is really more of an afternoon hack than a proper "project".
 
 The model used is GPT4-Turbo (`gpt-4-1106-preview`).
 

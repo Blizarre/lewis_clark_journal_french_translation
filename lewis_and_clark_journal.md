@@ -1,4 +1,12 @@
-# Transcriber's Note
+Ceci est une traduction française du livre "The Journals of Lewis and Clark, 1804-1806" qui contient les récits de voyages de William Clark et Meriwether Lewis lors de leur expédition à travers l'Amérique. Je n'ai pas pu trouver de traduction de ce texte en français et j'ai donc décidé d'utiliser GPT-4 Turbo d'OpenAI pour réaliser une traduction automatique. Bien que le résultat soit de très bonne qualité, je ne peux faire aucune promesse quant à la fidélité de la traduction.
+
+Le document original provient du projet Gutenberg : [https://www.gutenberg.org/ebooks/8419](https://www.gutenberg.org/ebooks/8419)
+
+Pour tout commentaire ou questions, vous pouvez me contacter à l'adresse [traduction@simon.marache.net](mailto:traduction@simon.marache.net). Site internet du projet et sources:
+
+[https://github.com/Blizarre/lewis_clark_journal_french_translation](https://github.com/Blizarre/lewis_clark_journal_french_translation)
+
+# Note du transcripteur
 
 ## Transcriber's Note
 Ces journaux vont du 14 mai 1804, le jour où l'expédition a quitté le fleuve Mississippi, au 26 septembre 1806, un ou deux jours après leur arrivée à Saint-Louis. Cela inclut toutes les entrées de journal possibles de Lewis et Clark. La plupart des "trajectoires et distances" et des "observations célestes" ont été omises. Les notes et la plupart des corrections des éditeurs précédents ont été retirées. Il y a quelques erreurs OCR, mais la plupart des fautes d'orthographe ont presque 200 ans. Les dates avec les noms entre crochets sont un peu redondantes. Elles sont incluses pour fournir la date correcte dans un format cohérent.

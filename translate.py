@@ -7,6 +7,9 @@ import sys
 from typing import IO, List
 from openai import AsyncOpenAI
 
+### This script is really a quick hack that I pieced together in an afternoon to see
+### what was possible with OpenAI. While I am quite happy about the result, I would not
+### do it the same way again. Please look at the README for more details.
 
 def log(*args, **kwargs):
     print(*args, file=sys.stderr, **kwargs)
@@ -71,6 +74,8 @@ async def translate(entry: Entry, client: AsyncOpenAI, sem: asyncio.Semaphore) -
                 {"role": "user", "content": entry.content},
             ],
         )
+        # The titles are kept untranslated to facilitate going back to the
+        # original entry to cross-reference the content
         return Entry(entry.title, output.choices[0].message.content or "")
 
 
